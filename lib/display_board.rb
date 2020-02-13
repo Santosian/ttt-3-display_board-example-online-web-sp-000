@@ -3,6 +3,7 @@
 def display_board
   board1 = [" ", "|", " ", "| ", " ",]
   puts board1
+  puts "-----------"
   board2 = [" ", "|", " ", "| ", " ",]
   puts board2
   puts "-----------"
