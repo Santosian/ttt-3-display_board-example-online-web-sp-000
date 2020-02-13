@@ -2,8 +2,8 @@
 
 def display_board
   board1 = [" ", "|", " ", "| ", " ",]
-  puts board1
-  puts "-----------"
+  print board1
+  print "-----------"
   board2 = [" ", "|", " ", "| ", " ",]
   puts board2
   puts "-----------"
