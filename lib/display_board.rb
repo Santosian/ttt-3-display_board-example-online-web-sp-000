@@ -10,3 +10,5 @@ def display_board
   board3 = [" ", "|", " ", "| ", " ",]
   puts board3
 end
+
+display_board
